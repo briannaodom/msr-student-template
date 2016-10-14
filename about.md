@@ -5,16 +5,14 @@ url: index.html
 image: http://unsplash.it/400?random
 ---
 
-## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
+### Overview
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+I am currently a Masters of Robotics graduate student at Northwestern University who is interested in entering the field of prosthetic robotics. My current goal is to intern or work at the Rehabilitation Institute of Chicago, however I am open to other fields that relate to Robotics like aerospace or mechanical. It would be exciting to work on self-driving cars at any company that is developing this type of vehicle or working with the government on building military robots. 
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+I believe in the self-improvement of people, so I would love to build voice controlled exercise machines, bionic arms and legs for amputees, and exoskeletons for soliders to increase their defenses and strength. Hopefully, my final project in the Summer of Fall of 2017 will pertain to one of the ideas written about above.
 
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
 
 ### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+* Motion Planning
+* Robotics That Aligns With Biomedical Engineering
+* Voice Recognition 
