@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: http://unsplash.it/400?random
+image: http://www.northwesternflipside.com/wp-content/uploads/2016/01/tech-entrance.jpg
 ---
 
 ## Contact Information

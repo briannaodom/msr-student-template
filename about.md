@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: http://unsplash.it/400?random
+image: http://www.chicagoarchitecture.org/wp-content/uploads/2012/11/Screen-Shot-2012-11-26-at-12.09.02-PMCentral-Standard-Time-356x500.jpg
 ---
 
 ### Overview
